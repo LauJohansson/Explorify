@@ -1,3 +1,4 @@
 ## Welcome to Explorify data repository
 
-Visit our homepage: [https://explorifydata.com/](https://explorifydata.com/) 
+This repository contains materials used on our main website.
+Visit our website: [https://explorifydata.com/](https://explorifydata.com/) 
